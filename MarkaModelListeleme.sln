@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkaModelListeleme", "MarkaModelListeleme\MarkaModelListeleme.csproj", "{B32010E0-1813-46CD-B7FD-29491927D068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32010E0-1813-46CD-B7FD-29491927D068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32010E0-1813-46CD-B7FD-29491927D068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32010E0-1813-46CD-B7FD-29491927D068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32010E0-1813-46CD-B7FD-29491927D068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A724D15F-0AB1-487C-B3A8-9B01E8F24037}
+	EndGlobalSection
+EndGlobal
